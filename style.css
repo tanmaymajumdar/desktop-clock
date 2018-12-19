@@ -1,0 +1,9 @@
+#analogue_clock{
+  display: block;
+   -webkit-app-region: drag;
+}
+
+#myText{
+
+  margin-left: 12%;
+}
